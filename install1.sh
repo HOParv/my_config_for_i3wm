@@ -1,6 +1,6 @@
 sudo apt update && sudo apt upgrade -y
 
-sudo apt install git polybar i3 rofi gnome kitty curl
+sudo apt install git polybar i3 rofi gnome kitty curl i3lock
 
 echo 'PACKAGES INSTALLED'
 
