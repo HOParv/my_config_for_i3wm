@@ -51,6 +51,8 @@ floating_modifier $mod
 # start a terminal
 bindsym $mod+Return exec kitty
 
+#lock with passwd
+bindsym $mod+l exec i3lock
 # start rofi
 bindsym $mod+r exec rofi -show run
 
